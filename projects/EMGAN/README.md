@@ -85,7 +85,30 @@ No transformations were applied up to now, except for the main dataset [4], whic
 > - Use tables and/or charts to describe the main aspects of the dataset that are relevant to the project.
 This dataset uses only one subject and 6 channels, which were placed in the following muscles:
 
-DESCRIBE MUSCLES
+| Corresponding muscle  mentioned      | EMG-UKA | Digital voicing | Mandarin dataset | DiffMV-ETS | AVE Speech | CSL-EMG_Array | emg2speech | SilentWear | EMG/EEG Sensor Fusion | Cross-Speaker EMG2Speech |
+|----------------------------|--------|-----------------|------------------|------------|------------|----------------|-------------|-------------|------------------------|--------------------------|
+| Zygomaticus major          |        |                 |                  |            |            |                |             |             |                        |                          |
+| Zygomaticus minor          |        |                 |                  |            |            |                |             |             |                        |                          |
+| Levator anguli oris        |        |                 |                  |            |            |                |             |             |                        |                          |
+| Depressor anguli oris      |        |                 |                  |            |            |                |             |             |                        |                          |
+| Levator labii superioris   |        |                 |                  |            |            |                |             |             |                        |                          |
+| Risorius                   |        |                 |                  |            |            |                |             |             |                        |                          |
+| Orbicularis oris           |        |                 |                  |            |            |                |             |             |                        |                          |
+| Mentalis                   |        |                 |                  |            |            |                |             |             |                        |                          |
+| Masseter                   |        |                 |                  |            |            |                |             |             |                        |                          |
+| Temporalis                 |        |                 |                  |            |            |                |             |             |                        |                          |
+| Lateral pterygoid          |        |                 |                  |            |            |                |             |             |                        |                          |
+| Platysma                   |        |                 |                  |            |            |                |             |             |                        |                          |
+| Sternohyoid                |        |                 |                  |            |            |                |             |             |                        |                          |
+| Stylohyoid                 |        |                 |                  |            |            |                |             |             |                        |                          |
+| Omohyoid                   |        |                 |                  |            |            |                |             |             |                        |                          |
+| Anterior belly of digastric|        |                 |                  |            |            |                |             |             |                        |                          |
+| Mylohyoid                  |        |                 |                  |            |            |                |             |             |                        |                          |
+| Genioglossus               |        |                 |                  |            |            |                |             |             |                        |                          |
+| Hyoglossus                 |        |                 |                  |            |            |                |             |             |                        |                          |
+| Styloglossus               |        |                 |                  |            |            |                |             |             |                        |                          |
+| Palatoglossus              |        |                 |                  |            |            |                |             |             |                        |                          |
+| Tongue                     |        |                 |                  |            |            |                |             |             |                        |                          |
 
 ### Workflow
 
